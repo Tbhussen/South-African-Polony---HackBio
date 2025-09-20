@@ -33,6 +33,8 @@
 
 ---
 
+### Toxin genes
+
 | File | Sequence | Location | Gene | Coverage | Identity | Database | Accession | Product | Resistance |
 |------|----------|----------|------|----------|----------|----------|-----------|---------|------------|
 | assembly/SRR27013312.../contigs.fasta | NODE_10_length_117635_cov_37.750962 | 37950-38945 (-) | lplA1 | 1-996/996 (100.00%) | 92.77% | vfdb | NP_464456 | (lplA1) | lipoate |
