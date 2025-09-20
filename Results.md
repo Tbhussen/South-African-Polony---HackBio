@@ -1,3 +1,42 @@
+# Results Summary
+
+## **Organism** : Listeria monocytogenes
+
+# 🧬 Summary of Detected Genes  
+
+### ✅ Overview
+- **Total unique genes detected:** 2  
+
+---
+
+### 🧾 Gene → Product Mapping
+| Gene          | Accession   |
+|---------------|-------------|
+| fosX          | NG_055654.1 |
+| lmo0919_fam   | NG_050599.1 |
+
+---
+
+### 🛡️ Resistance / Stress Traits
+| Gene          | Trait        |
+|---------------|-------------|
+| fosX          | fosfomycin  |
+| lmo0919_fam   | lincomycin  |
+
+---
+
+### 🔬 High-confidence Hits (≥90% identity)
+| Gene          | Identity    | Coverage   |
+|---------------|------------|------------|
+| fosX          | 100.00%    | 100.00%    |
+| lmo0919_fam   | 94.66%     | 100.00%    |
+
+---
+
+### 📂 Output Files
+- Full gene report: **`resistance_report.txt`**
+
+
 | File | Sequence | Location | Gene | Coverage | Identity | Database | Accession | Product | Resistance |
 |------|----------|----------|------|----------|----------|----------|-----------|---------|------------|
 | assembly/SRR27013312.../contigs.fasta | NODE_10_length_117635_cov_37.750962 | 37950-38945 (-) | lplA1 | 1-996/996 (100.00%) | 92.77% | vfdb | NP_464456 | (lplA1) | lipoate |
