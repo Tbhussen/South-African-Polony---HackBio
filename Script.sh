@@ -1,6 +1,8 @@
 #!/bin/bash
+# Stage 1: Microbes Project / SA_Polony 2017
+# Tamim Hussein
 
-#set -e
+set -e
 
 first_part="SRR270133"
 middle_part="_Genome_Sequencing_of_Listeria_monocytogenes_SA_outbreak_2017_"
